@@ -1,0 +1,5 @@
+npm init =>package.json file creation
+tsc --init =>tsconfig.json file creation
+npm i inquirer => dependencies => used after made a project
+npm i --save-dev @types/inquirer => devdependencies =>used during making a project but after final project devdependencies not used
+.json => javascript object notation => key and value both will be in string 
